@@ -1,3 +1,3 @@
 print('hello world')
 print('print hello world')
-print('Pair-Extraordinaire])
+print('Pair-Extraordinaire')
