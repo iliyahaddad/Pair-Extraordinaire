@@ -1,2 +1,2 @@
-print ('hello world!');
-print ("hi m");
+print ('ola hola');
+print ("love in the motion");
